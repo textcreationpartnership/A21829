@@ -1,0 +1,136 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An acte for the maintenance of the peere and cobbe of Lyme Regis, in the countie of Dorset</title>
+            <author>England and Wales. Sovereign (1558-1603 : Elizabeth I)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1585</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A21829</idno>
+            <idno type="STC">STC 8154</idno>
+            <idno type="STC">ESTC S3414</idno>
+            <idno type="EEBO-CITATION">33149705</idno>
+            <idno type="OCLC">ocm 33149705</idno>
+            <idno type="VID">28473</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A21829)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 28473)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1874:87)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An acte for the maintenance of the peere and cobbe of Lyme Regis, in the countie of Dorset</title>
+                  <author>England and Wales. Sovereign (1558-1603 : Elizabeth I)</author>
+                  <author>Elizabeth I, Queen of England, 1533-1603.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>By Christopher Barker, Printer to the Queenes Maiestie,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>[1585]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>At head of title: Anno xxvij. Reginæ Elizabethæ.</note>
+                  <note>Imperfect: creased in printing.</note>
+                  <note>Reproduction of original in: Society of Antiquaries.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Harbors --  Maintenance and repair --  Finance --  England.</term>
+               <term>Lyme Regis (England) --  History.</term>
+               <term>Great Britain --  History --  Elizabeth, 1558-1603.</term>
+               <term>Broadsides --  London (England) --  16th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="Act_of_Parliament">
+            <pb facs="tcp:28473:1"/>
+            <opener>
+               <dateline>
+                  <date>Anno xxvij. Reginae Elizabethae.</date>
+               </dateline>
+            </opener>
+            <head>
+               <g ref="char:leaf">❧</g> An Acte for the maintenance of the Peere and Cobbe of Lyme Regis, in the Countie of Dorſet.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas the Maior and Burgeſſes of the Borough and Towne of Lyme Regis in the Countie of Dorſet, and other the Inhabitants of the ſaid Towne and Borough, be at importable charges of themſelues in the yerely maintenance &amp; defence as well of the ſayd Towne and Borough bordering vpon y<hi rend="sup">e</hi> maine Sea, as alſo of the Peere of Lyme Regis aforeſayd, commonly called the Cobbe, beyng a harbour for ſhips made &amp; enforced in the maine Sea in bottome of the great Baye, which extendeth from the Iſle of Portland, to the hauen of Dartmouth, beyng diſtant xlii. miles: By meanes of which harbour, as wel y<hi rend="sup">e</hi> ſhips of the ſubiects of this Realme as others (which in paſſing the narow Seas are many tymes by forcible Sou<g ref="char:EOLhyphen"/>therly windes caried into the ſayd Baye) obtaine refuge and ſafegard in the ſaid Peere, without the which they muſt neceſſitie periſh: And where the ſayde Peere is a great reliefe as wel to the ſayd Inhabitants, as alſo to the coun<g ref="char:EOLhyphen"/>trey there adioyning thereby, receiuyng many benefites by reaſon of the traffique and entercourſe of ſhipping there vſed: And where alſo the ſame Peere or Cobbe in tymes paſt was partly maintayned by reaſon of a certaine yeerely rent of xx. li. which was payd vnto the predeceſſours of the ſayd Mayor &amp; Burgeſſes by the Kings and Queenes of this Realme, to continue for certayne yeeres now determined, which yeerely rent of late tyme hath bene, and is withdrawen and forborne to bee paied, and alſo the ſame was partly maintayned by the good deuotion and charges of diuers wealthy Merchants heretofore inhabi<g ref="char:EOLhyphen"/>ting in the ſayd Towne, whereof ſome are deceaſed, and ſome decayed, and ſometyme by collections of the deuotion of the country thereaboutes, and partly the ſame Peere alſo was and is repaired and maintained by reaſon of certaine auncient Cobbe duties time out of memory of man vſed to be paid to the ſaid Maior and Burgeſſes, of, and for all and all maner of wares and merchan<g ref="char:EOLhyphen"/>dizes brought into the ſaid Peere, or caried out of the ſame, that is to ſay, for euery packe of woollen cloth ii. d. for euery fardell of linnen cloth, ii. d. for euery tunne of ſweete wines, oyles and ſackes, viii. d. for al maner of other wines, and al other groſſe wares, iiii. d. the tunne, for y<hi rend="sup">e</hi> killage of euery ſhippe, veſſel or cockboate, iiii. d. for euery tunne of merchandize trouable and weighed at the Queenes beame there, ii. d. for the vſe of the ſayd beame: all which duties the ſaid Maior and Burgeſſes, and their predeceſſors, haue had, vſed, and enioyed, by the time whereof the memory of man is not to the contrary, as by diuers grantes and confirmati<g ref="char:EOLhyphen"/>ons made by the kings of this Realme to the ſaid Maior &amp; Burgeſies may appeare, which ſaid duties be ſo ſmall, conſidering the former helpes for maintenaunce as aforeſayd, doe now ceaſe, and that a great part of the old works beyng ſet with piles of great Okes, are not yet throughly defenced &amp; repaired or finiſhed, and the ſame old workes ſo eaten with wormes called Artes through oldneſſe, that it falleth daily in great decay, and the new works which haue bene in building theſe 30. yeres, doe like wiſe fall into great decay euery great ſtorme, which requireth a continual attendance euery tide to amend the faults thereof. And beſides that, the ſayd Maior and Burgeſſes are driuen to a further charge now then before time, by reaſon that they are now enfored to fetch their rocks with caſkes two miles further in the ſea, then heretofore they haue done. And moreouer, all other things needful are at a higher price then informer times they haue bene, ſo that by reaſon of the premiſſes, without ſpeedie redreſſe &amp; further helpe to be had and prouided for the maintenance of the ſaid Peere or Cobbe, the ſame muſt needs fall to vtter ruine and decay (as y<hi rend="sup">•</hi> like did happen in K. Edward the thirds time, whereby the ſaid king did loſe a great part of the ſaid Towne by fretting of the ſea) and many of the ſubiects of this Realme &amp; others that ſhal happen there to bee imbayed by tempeſtuous weather, muſt needes periſh for lacke of a conuenient place of harbour &amp; refuge. And like wiſe, the country thereabouts wil be depriued of many commodities which they were wont to receiue, but alſo the ſaid Towne &amp; Inhabitants thereof, which for the moſt part liue by ſhipping &amp; traf<g ref="char:EOLhyphen"/>fique together with their families, and diuers fit, able and ſkilful men and mariners there trained and brought vp fit for ſeruice, wil be vtterly impoueriſhed for euer. In conſideration whereof, and for that the ſayd Maior &amp; Burgeſſes haue of long time &amp; yet do keepe within the ſayd Towne a platforme furniſhed with great Ordinance, and with pouder and ſhot at their owne coſtes and charges for the defence of the enemie: And for that ſayd ancient duties and cuſtomes before mentioned were neuer heretofore ſufficient to ſupport the charges of the ſayd Peere, but now much more inſufficient for the cauſes aboue remembred: Be it there<g ref="char:EOLhyphen"/>fore enacted by the Queenes moſt excellent maieſtie, with the aſſent of the Lordes Spiritual &amp; Temporall, and the Commons of this preſent Parliament aſſembled, and by the authoritie of the ſame, that the ſaid Cobbe dueties and cuſtomes may from hence<g ref="char:EOLhyphen"/>forth be increaſed in maner and forme followyng. That is to ſay, that it ſhal and may be lawfull to and for the ſayd Maior &amp; Bur<g ref="char:EOLhyphen"/>geſſes and their ſucceſſors, to haue and take, of, and for all and all maner of wares and merchandizes which after the feaſt of Pen<g ref="char:EOLhyphen"/>tecoſt now next comming, ſhalbe brought into the ſayd Peere, Cobbe, or Towne of Lyme Regis, or caried out of the ſame, &amp; there ſhalbe laded, landed, or vnladen inwards or outwards, for euery packe of woollen cloth, iii. d. only, for euery fardel of linnen cloth, iii. d. onely, for euery tunne off weete wines, oiles and ſackes, viii. d. onely, &amp; for euery tunne of other wines, or other groſſe wares (fiſh excepted) vi. d. onely, for the killage of euery ſhip, veſſel, or cockboate, vi. d. onely, for euery tunne of merchandize trouable iii. d. onely and no more. And that it may be further enacted &amp; eſtabliſhed by the authoritie aforeſayd, that if any maſter of ſhip, mercha<g ref="char:cmbAbbrStroke">̄</g>t, owner, factour or dealer with any the ſaid wares, merchandizes or other things aforeſaid, ſhall or will heerafter refuſe or deny to pay the ſaid Cobbe duties laſt aboue mentioned, or any of them vpon demaund, that then it ſhal and may be lawfull to and for the ſaid Maior &amp; Burgeſſes, &amp; their ſucceſſors, by any one of themſelues, or any of their officers for y<hi rend="sup">e</hi> time being within y<hi rend="sup">e</hi> ſaid Town, Peere or Cobbe, to attach &amp; ſeaze the wares, merchandizes, &amp; things for the which any ſuch duetie as aforeſaid ſhalbe due and vn<g ref="char:EOLhyphen"/>paid, or any other of the goods of the owner or owners of the ſaid wares, merchandizes, or things there, &amp; the ſame to retayne and keepe in the name of a diſtreſſe, vntil the ſame duties ſhalbe vnto the ſaid Maior &amp; Burgeſſes, or to their ſucceſſors, or to their offi<g ref="char:EOLhyphen"/>cer or officers in y<hi rend="sup">t</hi> behalfe for the time beyng ſatiſfied and paid, for, and toward the maintenance &amp; continuance of the ſayd Peere or Cobbe. And for the better &amp; true execution of the true intent &amp; meaning of this preſent acte, Be it further enacted by the autho<g ref="char:EOLhyphen"/>ritie aforeſaid, that from henceforth, two ſufficient perſons of the Inhabitants of the ſame Towne, ſhalbe yerely choſen and ap<g ref="char:EOLhyphen"/>pointed by the Maior there for the time being, for the true collection &amp; emploiment of the duties aforeſaid, which Receiuers ſhall openly in the Leete &amp; Lawday there holden yerely, next after the feaſt of S. Michael the Archangel, make, yeeld, &amp; deliuer vp in writing a perfect account vpon their othes, vnto the Maior of the ſame towne for the time being of their ſaid receipts and emploi<g ref="char:EOLhyphen"/>ments. Prouided alwayes, that ſuch as now are, or hereafter ſhalbe of the Cinque portes, &amp; of all other hauen townes or Creekes within this realme, which of right had &amp; enioyed heretofore priuiledge in thoſe duties by vertue of any their Charters whatſoe<g ref="char:EOLhyphen"/>uer, ſhalbe &amp; continue diſcharged as heretofore they haue done, any thing in this acte contained to the co<g ref="char:cmbAbbrStroke">̄</g>trary notwithſtanding.</p>
+            <p>Prouided alſo &amp; be it further enacted by the authoritie aforeſaid, y<hi rend="sup">t</hi> al ſuch Cobbe duties &amp; cuſtomes as ſhalbe gathered, receiued, or taken by vertue of this Acte or other wiſe, ſhalbe imploied &amp; beſtowed in &amp; vpon the ſaid Peere or Cobbe, &amp; the ſea workes and o<g ref="char:EOLhyphen"/>ther things thereunto appertaining, &amp; not otherwiſe. And y<hi rend="sup">t</hi> yerely at the quarter ſeſſions of the Peace to be holden next before y<hi rend="sup">e</hi> feaſt of S. Michael the Archangel, in the ſaid Countie of Dorſet, the Iuſtices of Peace of the ſaid Countie which ſhalbe there pre<g ref="char:EOLhyphen"/>ſent, or the more part of them, ſhal in the ſaid open ſeſſions there, chooſe &amp; appoint one Iuſtice of Peace of the ſaid Countie not be<g ref="char:EOLhyphen"/>ing a free man of the ſame towne of Lyme. And alſo the merchants &amp; inhabitants of Taunton in the Countie of Somerſet, ſhall yerely chooſe one merchant of Taunton, &amp; alſo the merchants &amp; inhabitants of Chard in the ſaid Countie of Somerſet, ſhal yere<g ref="char:EOLhyphen"/>ly chooſe one merchant of Chard, which Iuſtice of Peace, merchant of Taunton, &amp; merchant of Chard ſo yerely to be choſen &amp; ap<g ref="char:EOLhyphen"/>pointed, together w<hi rend="sup">t</hi> the Maior or hed officer of the ſame towne of Lyme for the time being, or the more part of the<g ref="char:cmbAbbrStroke">̄</g>, ſhall haue full power &amp; authoritie yerely in the ſaid Leete &amp; Lawday, to take the iuſt &amp; true account of the ſaid Collectors &amp; Receiuers vpon their othes of the ſayd Cobbe duties &amp; cuſtomes, what hath bene collected &amp; receiued, &amp; how it hath bene imploied, &amp; what remayneth, and the ſame remaine to be imployed &amp; beſtowed as aforeſaid. And if the ſaid Collectors &amp; Receiuers or any of them ſhall refuſe to make account as aforeſaid, that then he or they ſo refuſing to make account as aforeſaid, ſhal forfeite xl. li. of lawful mony of Eng<g ref="char:EOLhyphen"/>land, the ſame forfaitures to be recouered by the Maior of the ſaid towne of Lyme, the ſaid Iuſtice of Peace, merchant of Taunto<g ref="char:cmbAbbrStroke">̄</g>, merchant of Charde ſo to be choſen as aforeſaid for the time beyng, or by any two of them by action of debt in any of the Queenes maieſties courtes of Record, wherin no wager of law, eſſoigne or protection ſhalbe allowed, &amp; the ſame to be imployed &amp; beſtowed in &amp; vpon the maintenance of the ſaid Peere or Cobbe &amp; other ſeaworks &amp; things aforeſaid thereunto appertaining. This Acte to continue for y<hi rend="sup">e</hi> ſpace of v. yeres next enſuing, &amp; from thence vntil the end of the next ſeſſion of the next parliament then next enſu<g ref="char:EOLhyphen"/>ing. And alſo that after the end of the ſaid ſeſſion of parliament next after the end of the ſaid v. yeeres, the foreſaid auncient Cobbe duties &amp; cuſtomes, ſhal remaine due &amp; payable vnto y<hi rend="sup">e</hi> ſaid Maior &amp; Burgeſſes of y<hi rend="sup">e</hi> ſaid Borough &amp; towne of Lyme Regis for euer, as y<hi rend="sup">e</hi> ſame were due &amp; payable vnto the ſaid Maior &amp; Burgeſſes before the making of this Acte, and ſhalbe vſed, ordered, &amp; accoun<g ref="char:EOLhyphen"/>ted, as it hath bene accuſtomed before y<hi rend="sup">e</hi> making of this Acte: Any thing herein conteined to y<hi rend="sup">e</hi> contrary thereof notwithſtanding.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Imprinted at London by Chriſtopher Barker, Printer to the Queenes Maieſtie.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
